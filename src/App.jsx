@@ -3,7 +3,7 @@ import Form from './Form'
 import Delete from './Delete'
 import Get from './Get'
 function App() {
-  const url = "https://admin-api-maaj.onrender.com/api/"; 
+  const url = "https://admin-api-maaj-sg2l.onrender.com/api/"; 
 
   return (
     <>
